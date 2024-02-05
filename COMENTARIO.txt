@@ -1,0 +1,4 @@
+ 1 instalando "vite" con yarn
+ 2 instalando "react router dom" con yarn
+
+ FIN... yarn build (crea "dist" => publicar)
